@@ -17,6 +17,7 @@ My name is Vanessa Yang. I'm currently a student at Brigham Young University-Ida
 
 ## Let's Connect!
 
-- 📧 My LinkedIn profile: www.linkedin.com/in/vanessa-sun-yang 
+- [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]() My LinkedIn profile: www.linkedin.com/in/vanessa-sun-yang
+- 📧 My E-mail: Yang.Vanessa85@gmail.com
   
 Please feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
